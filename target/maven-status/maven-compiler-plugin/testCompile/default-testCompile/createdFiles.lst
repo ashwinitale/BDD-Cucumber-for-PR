@@ -1,0 +1,5 @@
+uiAppFeatures\HomeRunnerTest.class
+uiAppFeatures\ApplicationHooks.class
+uiAppFeatures\HomeSteps.class
+utility\ReadProperty.class
+uiAppFeatures\SearchSteps.class

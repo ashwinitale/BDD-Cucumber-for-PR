@@ -1,0 +1,5 @@
+pages\Basepage.class
+drivermanager\PageFactoryManager.class
+drivermanager\DriverFactory.class
+pages\HomePage.class
+pages\SearchPage.class
