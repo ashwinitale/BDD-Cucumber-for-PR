@@ -6,6 +6,5 @@
       <class name="uiappfeatures.HomeRunner"></class>
     </classes>
   </test> <!-- Test -->
-
 </suite> <!-- Suite -->
 
